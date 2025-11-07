@@ -1,19 +1,24 @@
-# 💻 Terminal Interface
+# ⚡ Let's Build Something Amazing Together!
 
-```bash
-visitor@github:~$ whoami
-[Your Name] - Laravel Developer
+## 🎯 I Help Businesses With:
+- 🛍️ **E-commerce Solutions** - Scalable online stores
+- 🎨 **UI/UX Implementation** - Beautiful, responsive designs
+- 🔧 **API Development** - Robust backend systems
+- 🚀 **Performance Optimization** - Faster, better experiences
 
-visitor@github:~$ ls skills/
-laravel/  php/  javascript/  tailwind/  mysql/
+## 📞 Ready to Start Your Project?
 
-visitor@github:~$ cd projects
-visitor@github:~/projects$ ls
-ecommerce-store/  portfolio/  blog-system/
+<div align="center">
 
-visitor@github:~$ cat contact.txt
-📧 email@domain.com
-💼 linkedin.com/in/yourname
-🌐 yourportfolio.com
+[![Hire Me](https://img.shields.io/badge/HIRE_ME-FF6B6B?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:your@email.com)
+[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-667EEA?style=for-the-badge)](https://yourportfolio.com)
+[![Schedule Call](https://img.shields.io/badge/SCHEDULE_CALL-4CAF50?style=for-the-badge)](https://calendly.com/yourname)
 
-visitor@github:~$ 
+</div>
+
+## 💼 Featured Work
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Modern Store** | Laravel E-commerce | [View Live](link) |
+| **Tech Blog** | Developer Platform | [View Live](link) |
+| **Dashboard** | Analytics Interface | [View Live](link) |
