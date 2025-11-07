@@ -1,24 +1,33 @@
-# ⚡ Let's Build Something Amazing Together!
 
-## 🎯 I Help Businesses With:
-- 🛍️ **E-commerce Solutions** - Scalable online stores
-- 🎨 **UI/UX Implementation** - Beautiful, responsive designs
-- 🔧 **API Development** - Robust backend systems
-- 🚀 **Performance Optimization** - Faster, better experiences
+## 🎯 Filosofi Belajar Saya
+> **"Dalam-dalam dulu, baru melebar"** - Lebih baik menguasai stack utama dengan baik sebelum loncat ke teknologi lain.
 
-## 📞 Ready to Start Your Project?
+## 🛠️ Tech Stack Andalan
+- **Backend**: Laravel + PHP
+- **Frontend**: HTML + Tailwind CSS + JavaScript dasar
+- **Database**: MySQL
+- **Tools**: Git, Composer, VS Code
 
+## 📚 Rencana Belajar 2024
+1. **Mendalami Laravel advanced** ✅
+2. **Buat project real** ✅  
+3. **Tingkatkan skill JavaScript** 🔄
+4. **Pelajari Livewire/Alpine.js** 🎯
+
+## 💼 Project Saya
+### 🛍️ [Toko Online Lengkap](link)
+**Teknologi**: Laravel, Tailwind CSS, MySQL, JavaScript
+**Status**: ✅ Selesai & Sudah Deploy
+
+### 🎨 [Website Portfolio](link) 
+**Teknologi**: Laravel, Tailwind CSS
+**Status**: ✅ Sudah Online
+
+---
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/HIRE_ME-FF6B6B?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:your@email.com)
-[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-667EEA?style=for-the-badge)](https://yourportfolio.com)
-[![Schedule Call](https://img.shields.io/badge/SCHEDULE_CALL-4CAF50?style=for-the-badge)](https://calendly.com/yourname)
+**Fokus sama yang saya kuasai, dan terus berkembang setiap hari**
+
+[![Email](https://img.shields.io/badge/Hubungi_Saya-Email%20Saya-blue?style=flat)](mailto:email@gmail.com)
 
 </div>
-
-## 💼 Featured Work
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **Modern Store** | Laravel E-commerce | [View Live](link) |
-| **Tech Blog** | Developer Platform | [View Live](link) |
-| **Dashboard** | Analytics Interface | [View Live](link) |
