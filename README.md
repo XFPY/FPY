@@ -28,6 +28,6 @@
 
 **Fokus sama yang saya kuasai, dan terus berkembang setiap hari**
 
-[![Email](https://img.shields.io/badge/Hubungi_Saya-Email%20Saya-blue?style=flat)](mailto:email@gmail.com)
+[![Email](https://img.shields.io/badge/Hubungi_Saya-Email%20Saya-blue?style=flat)](mailto:adinata79177@gmail.com)
 
 </div>
