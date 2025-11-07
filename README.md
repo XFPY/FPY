@@ -16,7 +16,7 @@ A beautiful e-commerce platform built with Laravel and Tailwind CSS
 Description of your other project
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?xfpy=AdiNata&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?xfpy=xfpy&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: Adinata79177@gmail.com
