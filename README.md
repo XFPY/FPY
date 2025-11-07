@@ -8,7 +8,7 @@
 - **Database**: MySQL
 - **Tools**: Git, Composer, VS Code
 
-## 📚 Rencana Belajar 2024
+## 📚 Rencana Belajar 2025
 1. **Mendalami Laravel advanced** ✅
 2. **Buat project real** ✅  
 3. **Tingkatkan skill JavaScript** 🔄
